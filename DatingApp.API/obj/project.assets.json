@@ -11827,23 +11827,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jhonatan\\.nuget\\packages\\": {},
+    "C:\\Users\\jhona\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Jhonatan\\Desktop\\Jhon\\AspAngular\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "c:\\Users\\jhona\\Desktop\\ANGULAR\\Novo\\AspAngular\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\Jhonatan\\Desktop\\Jhon\\AspAngular\\DatingApp.API\\DatingApp.API.csproj",
-      "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Jhonatan\\Desktop\\Jhon\\AspAngular\\DatingApp.API\\obj\\",
+      "projectPath": "c:\\Users\\jhona\\Desktop\\ANGULAR\\Novo\\AspAngular\\DatingApp.API\\DatingApp.API.csproj",
+      "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jhona\\Desktop\\ANGULAR\\Novo\\AspAngular\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
