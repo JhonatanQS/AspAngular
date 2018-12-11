@@ -11,7 +11,7 @@ import { Router } from '@angular/router';
 export class NavComponent implements OnInit {
 
   model: any = {};
-  constructor(public authService: AuthService, private alertity: AlertifyService,private router: Router) { }
+  constructor(public authService: AuthService, private alertity: AlertifyService, private router: Router) { }
 
   ngOnInit() {
   }
@@ -21,7 +21,7 @@ export class NavComponent implements OnInit {
 
     }, error => {
       this.alertity.error('falha  login');
-    }, () =>{
+    }, () => {
       this.router.navigate(['/members']);
     });
   }
